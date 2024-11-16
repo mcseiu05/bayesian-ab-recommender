@@ -23,7 +23,7 @@ This repository provides a Bayesian A/B testing framework for personalized produ
 
 3. **Run scripts in PyCharms**:
 
-Open the project in PyCharm.
+ Open the project in PyCharm.
 - Use the Run menu to execute the scripts sequentially:
 - Run data_preparation.py to prepare the data.
     - Run data_preparation.py to prepare the data.
