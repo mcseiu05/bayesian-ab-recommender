@@ -26,7 +26,7 @@ This repository provides a Bayesian A/B testing framework for personalized produ
 Open the project in PyCharm.
 - Use the Run menu to execute the scripts sequentially:
 - Run data_preparation.py to prepare the data.
-    - Then run model.py to perform the Bayesian analysis.
+    - Run data_preparation.py to prepare the data.
     - Then run model.py to perform the Bayesian analysis.
 
 
@@ -38,6 +38,7 @@ Open the project in PyCharm.
 - Loads the A/B testing data from CSV files.
 - Cleans and preprocesses the data.
 - Prepares the data for model fitting.
+  
 **2. Bayesian A/B Testing Model (model.py):**
 - Defines the Bayesian model using PyMC3.
 - Specifies prior distributions for conversion rates.
